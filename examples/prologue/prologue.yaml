@@ -1,0 +1,14 @@
+scene_id: 0
+scene_name: "prologue"
+commands:
+  - type: "TEXT"
+    text: "“Knowledge… is it a gift or a curse?”"
+  - type: "TEXT"
+    text: "That question comes uninvited every night. It barges into my head, loud as the workmen on a Sunday morning, breaking my peace."
+  - type: "CLEAR"
+  - type: "TEXT"
+    text: "At first I thought knowledge was a lantern."
+  - type: "TEXT"
+    text: "Imagine being lost in a dark forest where the moonlight cannot pierce the dense leaves, the ground thick with roots coiling like snakes."
+  - type: "TEXT"
+    text: "While others fumble in fear, not knowing the way, I hold the light."
